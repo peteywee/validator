@@ -3,7 +3,7 @@
 A real-time validation workflow for AI-native project ideas.  
 This checklist helps you decide if an idea is worth building before writing code.
 
-> “Solve the crap out of it before you build it.”
+> “Name your problem, Solve the crap out of it before you build it.”
 
 ## How It Works
 
